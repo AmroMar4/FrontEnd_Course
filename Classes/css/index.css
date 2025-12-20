@@ -1,0 +1,34 @@
+h5{
+    background-color: blueviolet !important;
+}
+*{
+    font-size: 21px;
+}
+p *{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* text-align: center; */
+}
+p em{                           
+    font-size: 22px;
+}
+p mark {
+background-color: cornflowerblue;
+}
+#heading6 {   /* this is ID*/
+background-color: crimson;
+}
+.preclass{           /*this is CLASS*/
+    text-align: center;
+    background-color: yellow;
+}
+.ulclass{
+    color:hotpink;
+}
+#image{
+    background-position: center;
+}
+
+
+/* when i need some prop to be the first one i add !important on it so it become a higher priorty 
+the seconed one is inline then the id then the class then the p tag as a normal one 
+*/
