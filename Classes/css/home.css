@@ -1,0 +1,12 @@
+.container .main .sales p {
+    color:darkseagreen;
+    background-color: aqua;
+}
+.main .sales p {
+    color:rgb(64, 79, 64);
+    background-color: rgb(221, 255, 0);
+}
+.sales p {
+    color:rgb(143, 150, 188);
+    background-color: rgb(255, 0, 0);
+}

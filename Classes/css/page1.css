@@ -1,0 +1,40 @@
+/* h1{
+    background-color: beige;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+} */
+p {
+    background-color:aqua;
+    display: inline-block;
+    letter-spacing: 10px;
+    word-spacing: 10px;
+    text-indent: 20px;
+    height: 70px;
+    
+}
+a:link{
+    color: rgb(9, 9, 9);
+    font-size: 20px;
+}
+a:visited{
+    color: chocolate;
+    font-style: italic;
+}
+a:hover{
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+input::after{
+    color: aqua;
+}
+input::-moz-focus-inner{
+color: green;
+}
+h1{
+    display: inline-block;
+    border: 5px solid green;
+    padding: 20px 30px 40px 5px;
+    margin: 5px;
+    letter-spacing: 3px;
+}
